@@ -1,1 +1,0 @@
-This is line1 file4 in devopsThis is file4 in master
